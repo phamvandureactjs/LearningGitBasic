@@ -2,7 +2,7 @@
 
 using namespace std;
 int sum(int a, int b) {
-	
+
 }
 int main() {
 	cout << "Pham Van Du" << endl;
